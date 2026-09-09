@@ -26,5 +26,3 @@ Private, but happy to walk through: **agentos**, a multi-agent kernel where no a
 ## Otherwise
 
 Discovery, strategy, PRDs, launch, growth. Python and JavaScript when it's faster to build the thing than to describe it.
-
-Reach me at <cshc123456@gmail.com>.
